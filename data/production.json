@@ -1,13 +1,13 @@
 {
- "genere": "2026-11-07T10:15:38.743Z",
+ "genere": "2026-11-10T11:16:54.798Z",
  "equipe": "ANAHEIM",
- "fiche": "ANAHEIM 4-5-2",
+ "fiche": "ANAHEIM 4-6-2",
  "pointage": {
-  "releve": "2026-11-07T10:15:38.743Z",
+  "releve": "2026-11-10T11:16:54.798Z",
   "patineurs": [
    {
     "nom": "Sidney Crosby",
-    "gp": 11,
+    "gp": 12,
     "goals": 4,
     "assists": 10,
     "pts": 14,
@@ -15,12 +15,12 @@
     "pim": 2,
     "ppg": 0,
     "gwg": 1,
-    "shots": 22,
-    "hits": 23
+    "shots": 23,
+    "hits": 25
    },
    {
     "nom": "Quentin Musty",
-    "gp": 11,
+    "gp": 12,
     "goals": 6,
     "assists": 4,
     "pts": 10,
@@ -33,20 +33,20 @@
    },
    {
     "nom": "Michael Bunting",
-    "gp": 11,
+    "gp": 12,
     "goals": 2,
     "assists": 8,
     "pts": 10,
     "plusminus": 1,
-    "pim": 20,
+    "pim": 32,
     "ppg": 2,
     "gwg": 1,
-    "shots": 20,
-    "hits": 16
+    "shots": 21,
+    "hits": 18
    },
    {
     "nom": "Simon Holmstrom",
-    "gp": 11,
+    "gp": 12,
     "goals": 4,
     "assists": 5,
     "pts": 9,
@@ -54,12 +54,12 @@
     "pim": 8,
     "ppg": 0,
     "gwg": 0,
-    "shots": 15,
-    "hits": 11
+    "shots": 16,
+    "hits": 14
    },
    {
     "nom": "Alex Tuch",
-    "gp": 11,
+    "gp": 12,
     "goals": 5,
     "assists": 3,
     "pts": 8,
@@ -67,12 +67,12 @@
     "pim": 2,
     "ppg": 0,
     "gwg": 1,
-    "shots": 32,
-    "hits": 28
+    "shots": 34,
+    "hits": 32
    },
    {
     "nom": "Ryan Pulock",
-    "gp": 11,
+    "gp": 12,
     "goals": 1,
     "assists": 6,
     "pts": 7,
@@ -80,12 +80,12 @@
     "pim": 0,
     "ppg": 0,
     "gwg": 0,
-    "shots": 14,
+    "shots": 15,
     "hits": 25
    },
    {
     "nom": "Owen Beck",
-    "gp": 11,
+    "gp": 12,
     "goals": 5,
     "assists": 1,
     "pts": 6,
@@ -93,12 +93,25 @@
     "pim": 4,
     "ppg": 1,
     "gwg": 1,
-    "shots": 13,
-    "hits": 3
+    "shots": 14,
+    "hits": 4
+   },
+   {
+    "nom": "Alexander Nylander",
+    "gp": 12,
+    "goals": 4,
+    "assists": 2,
+    "pts": 6,
+    "plusminus": -6,
+    "pim": 6,
+    "ppg": 2,
+    "gwg": 0,
+    "shots": 43,
+    "hits": 13
    },
    {
     "nom": "Denis Gurianov",
-    "gp": 11,
+    "gp": 12,
     "goals": 1,
     "assists": 5,
     "pts": 6,
@@ -106,28 +119,15 @@
     "pim": 6,
     "ppg": 0,
     "gwg": 0,
-    "shots": 31,
+    "shots": 32,
     "hits": 9
    },
    {
-    "nom": "Alexander Nylander",
-    "gp": 11,
+    "nom": "Semyon Arguchintsev",
+    "gp": 12,
     "goals": 3,
     "assists": 2,
     "pts": 5,
-    "plusminus": -6,
-    "pim": 4,
-    "ppg": 2,
-    "gwg": 0,
-    "shots": 40,
-    "hits": 12
-   },
-   {
-    "nom": "Semyon Arguchintsev",
-    "gp": 11,
-    "goals": 3,
-    "assists": 1,
-    "pts": 4,
     "plusminus": -5,
     "pim": 8,
     "ppg": 0,
@@ -137,7 +137,7 @@
    },
    {
     "nom": "Ethan Phillips",
-    "gp": 11,
+    "gp": 12,
     "goals": 1,
     "assists": 2,
     "pts": 3,
@@ -145,12 +145,12 @@
     "pim": 0,
     "ppg": 0,
     "gwg": 0,
-    "shots": 13,
-    "hits": 12
+    "shots": 14,
+    "hits": 13
    },
    {
     "nom": "Seth Jones",
-    "gp": 11,
+    "gp": 12,
     "goals": 0,
     "assists": 3,
     "pts": 3,
@@ -158,43 +158,56 @@
     "pim": 4,
     "ppg": 0,
     "gwg": 0,
-    "shots": 18,
-    "hits": 28
+    "shots": 20,
+    "hits": 30
    },
    {
     "nom": "Alfons Malmstrom",
-    "gp": 11,
+    "gp": 12,
     "goals": 0,
     "assists": 3,
     "pts": 3,
     "plusminus": -6,
-    "pim": 8,
+    "pim": 12,
     "ppg": 0,
     "gwg": 0,
-    "shots": 11,
-    "hits": 23
+    "shots": 12,
+    "hits": 27
    },
    {
     "nom": "Cade Webber",
-    "gp": 11,
+    "gp": 12,
     "goals": 1,
     "assists": 1,
     "pts": 2,
     "plusminus": 0,
-    "pim": 10,
+    "pim": 12,
     "ppg": 0,
     "gwg": 0,
     "shots": 3,
-    "hits": 13
+    "hits": 14
+   },
+   {
+    "nom": "Connor Hall",
+    "gp": 12,
+    "goals": 0,
+    "assists": 1,
+    "pts": 1,
+    "plusminus": -1,
+    "pim": 0,
+    "ppg": 0,
+    "gwg": 0,
+    "shots": 18,
+    "hits": 36
    },
    {
     "nom": "Philippe Myers",
-    "gp": 11,
+    "gp": 12,
     "goals": 0,
     "assists": 1,
     "pts": 1,
     "plusminus": 1,
-    "pim": 6,
+    "pim": 8,
     "ppg": 0,
     "gwg": 0,
     "shots": 13,
@@ -202,7 +215,7 @@
    },
    {
     "nom": "William Eklund",
-    "gp": 11,
+    "gp": 12,
     "goals": 0,
     "assists": 1,
     "pts": 1,
@@ -215,7 +228,7 @@
    },
    {
     "nom": "Michael Vukojevic",
-    "gp": 11,
+    "gp": 12,
     "goals": 0,
     "assists": 1,
     "pts": 1,
@@ -224,34 +237,21 @@
     "ppg": 0,
     "gwg": 0,
     "shots": 7,
-    "hits": 14
-   },
-   {
-    "nom": "Connor Hall",
-    "gp": 11,
-    "goals": 0,
-    "assists": 0,
-    "pts": 0,
-    "plusminus": -1,
-    "pim": 0,
-    "ppg": 0,
-    "gwg": 0,
-    "shots": 18,
-    "hits": 31
+    "hits": 15
    }
   ],
   "gardiens": [
    {
     "nom": "Cole Brady",
-    "gp": 3,
+    "gp": 4,
     "pim": 0,
     "w": 0,
-    "l": 1,
+    "l": 2,
     "t": 0,
-    "avg": 3.1,
-    "svpct": 0.88,
+    "avg": 2.73,
+    "svpct": 0.896,
     "so": 0,
-    "mp": 116
+    "mp": 176
    },
    {
     "nom": "Michael McNiven",
@@ -268,61 +268,61 @@
   ]
  },
  "xtra": {
-  "releve": "2026-11-07T10:15:38.743Z",
-  "date": "11/07/2026",
+  "releve": "2026-11-10T11:16:54.798Z",
+  "date": "11/10/2026",
   "joueurs": [
    {
     "nom": "Alex Tuch",
     "pos": "RW",
-    "gp": 11,
+    "gp": 12,
     "goals": 5,
     "assists": 3,
     "pts": 8,
-    "shots": 32,
+    "shots": 34,
     "pim": 2,
-    "mp": 222,
-    "hits": 28
+    "mp": 244,
+    "hits": 32
    },
    {
     "nom": "Alexander Nylander",
     "pos": "RW",
-    "gp": 11,
-    "goals": 3,
+    "gp": 12,
+    "goals": 4,
     "assists": 2,
-    "pts": 5,
-    "shots": 40,
-    "pim": 4,
-    "mp": 212,
-    "hits": 12
+    "pts": 6,
+    "shots": 43,
+    "pim": 6,
+    "mp": 229,
+    "hits": 13
    },
    {
     "nom": "Alfons Malmstrom",
     "pos": "D",
-    "gp": 11,
+    "gp": 12,
     "goals": 0,
     "assists": 3,
     "pts": 3,
-    "shots": 11,
-    "pim": 8,
-    "mp": 212,
-    "hits": 23
+    "shots": 12,
+    "pim": 12,
+    "mp": 231,
+    "hits": 27
    },
    {
     "nom": "Cade Webber",
     "pos": "D",
-    "gp": 11,
+    "gp": 12,
     "goals": 1,
     "assists": 1,
     "pts": 2,
     "shots": 3,
-    "pim": 10,
-    "mp": 95,
-    "hits": 13
+    "pim": 12,
+    "mp": 103,
+    "hits": 14
    },
    {
     "nom": "Cole Brady",
     "pos": "G",
-    "gp": 3,
+    "gp": 4,
     "goals": 0,
     "assists": 0,
     "pts": 0,
@@ -330,56 +330,56 @@
     "pim": 0,
     "mp": 0,
     "hits": 0,
-    "qg": 1,
+    "qg": 2,
     "hs": 0
    },
    {
     "nom": "Connor Hall",
     "pos": "D",
-    "gp": 11,
+    "gp": 12,
     "goals": 0,
-    "assists": 0,
-    "pts": 0,
+    "assists": 1,
+    "pts": 1,
     "shots": 18,
     "pim": 0,
-    "mp": 231,
-    "hits": 31
+    "mp": 254,
+    "hits": 36
    },
    {
     "nom": "Denis Gurianov",
     "pos": "LW",
-    "gp": 11,
+    "gp": 12,
     "goals": 1,
     "assists": 5,
     "pts": 6,
-    "shots": 31,
+    "shots": 32,
     "pim": 6,
-    "mp": 216,
+    "mp": 232,
     "hits": 9
    },
    {
     "nom": "Ethan Phillips",
     "pos": "C",
-    "gp": 11,
+    "gp": 12,
     "goals": 1,
     "assists": 2,
     "pts": 3,
-    "shots": 13,
+    "shots": 14,
     "pim": 0,
-    "mp": 95,
-    "hits": 12
+    "mp": 105,
+    "hits": 13
    },
    {
     "nom": "Michael Bunting",
     "pos": "LW",
-    "gp": 11,
+    "gp": 12,
     "goals": 2,
     "assists": 8,
     "pts": 10,
-    "shots": 20,
-    "pim": 20,
-    "mp": 228,
-    "hits": 16
+    "shots": 21,
+    "pim": 32,
+    "mp": 248,
+    "hits": 18
    },
    {
     "nom": "Michael McNiven",
@@ -398,121 +398,121 @@
    {
     "nom": "Michael Vukojevic",
     "pos": "D",
-    "gp": 11,
+    "gp": 12,
     "goals": 0,
     "assists": 1,
     "pts": 1,
     "shots": 7,
     "pim": 16,
-    "mp": 119,
-    "hits": 14
+    "mp": 131,
+    "hits": 15
    },
    {
     "nom": "Owen Beck",
     "pos": "C",
-    "gp": 11,
+    "gp": 12,
     "goals": 5,
     "assists": 1,
     "pts": 6,
-    "shots": 13,
+    "shots": 14,
     "pim": 4,
-    "mp": 154,
-    "hits": 3
+    "mp": 167,
+    "hits": 4
    },
    {
     "nom": "Philippe Myers",
     "pos": "D",
-    "gp": 11,
+    "gp": 12,
     "goals": 0,
     "assists": 1,
     "pts": 1,
     "shots": 13,
-    "pim": 6,
-    "mp": 155,
+    "pim": 8,
+    "mp": 173,
     "hits": 17
    },
    {
     "nom": "Quentin Musty",
     "pos": "LW",
-    "gp": 11,
+    "gp": 12,
     "goals": 6,
     "assists": 4,
     "pts": 10,
     "shots": 27,
     "pim": 4,
-    "mp": 219,
+    "mp": 236,
     "hits": 15
    },
    {
     "nom": "Ryan Pulock",
     "pos": "D",
-    "gp": 11,
+    "gp": 12,
     "goals": 1,
     "assists": 6,
     "pts": 7,
-    "shots": 14,
+    "shots": 15,
     "pim": 0,
-    "mp": 227,
+    "mp": 248,
     "hits": 25
    },
    {
     "nom": "Semyon Arguchintsev",
     "pos": "C",
-    "gp": 11,
+    "gp": 12,
     "goals": 3,
-    "assists": 1,
-    "pts": 4,
+    "assists": 2,
+    "pts": 5,
     "shots": 23,
     "pim": 8,
-    "mp": 205,
+    "mp": 223,
     "hits": 8
    },
    {
     "nom": "Seth Jones",
     "pos": "D",
-    "gp": 11,
+    "gp": 12,
     "goals": 0,
     "assists": 3,
     "pts": 3,
-    "shots": 18,
+    "shots": 20,
     "pim": 4,
-    "mp": 239,
-    "hits": 28
+    "mp": 260,
+    "hits": 30
    },
    {
     "nom": "Sidney Crosby",
     "pos": "C",
-    "gp": 11,
+    "gp": 12,
     "goals": 4,
     "assists": 10,
     "pts": 14,
-    "shots": 22,
+    "shots": 23,
     "pim": 2,
-    "mp": 223,
-    "hits": 23
+    "mp": 241,
+    "hits": 25
    },
    {
     "nom": "Simon Holmstrom",
     "pos": "RW",
-    "gp": 11,
+    "gp": 12,
     "goals": 4,
     "assists": 5,
     "pts": 9,
-    "shots": 15,
+    "shots": 16,
     "pim": 8,
-    "mp": 178,
-    "hits": 11
+    "mp": 195,
+    "hits": 14
    },
    {
     "nom": "William Eklund",
     "pos": "RW",
-    "gp": 11,
+    "gp": 12,
     "goals": 0,
     "assists": 1,
     "pts": 1,
     "shots": 2,
     "pim": 2,
-    "mp": 49,
+    "mp": 50,
     "hits": 1
    }
   ]
